@@ -30,7 +30,7 @@ A paired t-test gave **p = 0.0114**, so the difference was statistically signifi
 ## Contents
 
 - [`report/`](report/): full written report with literature review
-- [`presentation/`](Public Copy - AI Matrix_ Report - Google Docs.pdf): capstone slides
+- [`presentation/`](presentation/): capstone slides
 - [`results/`](results/): score data and charts
 
 ## Tools
